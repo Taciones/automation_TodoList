@@ -38,12 +38,7 @@ class HomePage
         item = find(ELEMENTS["home_page"]["all_todos"], :text => nome)
         item.hover
         find(ELEMENTS["home_page"]["delete_button"], visible: true).click
-        begin
-            expect(page).not_to have_text(nome)
-        rescue
-            $error = "Não foi possivel editar a lista com sucesso."
-            raise $error
-        end
+        
 
     end
 
