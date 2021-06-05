@@ -1,0 +1,12 @@
+home_page:
+  todo_section: section[id='todoapp']
+  input_new_todo: input[id='new-todo']
+  all_todos: section[id='main']
+  delete_button: button[class='destroy']
+  
+
+
+rota_rotas:
+  click_facilidade: div[id='checkoox-select-facilities']
+  
+  
