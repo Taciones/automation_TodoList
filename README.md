@@ -17,4 +17,4 @@ cucumber
 
 ### Report
 Os testes foram executados localmente e estão com status passed.
-![Report_ok](https://github.com/Taciones/automacao_todo/blob/main/images/report_ok.png)
+![Report_ok](https://github.com/Taciones/automation_TodoList/blob/main/images/report_ok.png)
